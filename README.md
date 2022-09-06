@@ -1,1 +1,2 @@
-# HRK-Clothing.github.io
+# HRK-Clothing.github.i
+Created using pure html css and javascript
