@@ -13,3 +13,7 @@ if (close){
         nav.classList.remove('active');
     })
 }
+
+function del(item){
+    document.getElementById(item).remove();
+}
